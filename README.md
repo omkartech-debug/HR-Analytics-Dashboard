@@ -6,6 +6,7 @@ Interactive Power BI Dashboard for analyzing employee attrition and HR insights.
 This project presents a Power BI HR Analytics Dashboard that helps organizations understand employee attrition trends and key workforce insights. The dashboard provides a detailed overview of attrition by various dimensions such as age, salary, education, and job role, allowing HR teams to make data-driven decisions.
 
 📘 Project Overview
+
 The primary goal of this dashboard is to analyze employee attrition patterns and identify factors influencing turnover. By visualizing key HR metrics, organizations can improve employee retention, engagement, and strategic workforce planning.
 
 🧠 Key Insights
@@ -18,6 +19,7 @@ The primary goal of this dashboard is to analyze employee attrition patterns and
 #Average Years of Experience: 7 years
 
 📈 Dashboard Highlights
+
 1. Attrition by Education
 Shows attrition distribution based on educational background — Life Sciences, Medical, Marketing, Technical Degrees, etc.
 2. Attrition by Age
@@ -32,6 +34,7 @@ Compares attrition between male (140) and female (79) employees.
 Shows how attrition changes with tenure — higher in early career years.
 
 🧩 Tools and Technologies Used
+
 Power BI – for data visualization and dashboard creation
 Microsoft Excel – for initial data cleaning and preparation
 Data Source: HR Employee Dataset (Sample Data)
@@ -42,6 +45,7 @@ To visualize HR data for better decision-making
 To support data-driven HR strategy for retention improvement
 
 📂 Project Files
+
 File Type	Description
 📘 .pbix	Power BI Dashboard File
 🖼️ .png	Dashboard Screenshot
@@ -59,6 +63,7 @@ Interact with visuals to gain insights
 https://github.com/omkartech-debug/HR-Analytics-Dashboard/blob/main/HR%20ANALYTICS%20PRO.pbix
 
 🖼️ Dashboard Image: 
+https://github.com/omkartech-debug/HR-Analytics-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD%20SS.png
 <img width="1218" height="677" alt="HR ANALYTICS DASHBOARD SS" src="https://github.com/user-attachments/assets/47ecdad2-f08d-48a8-b84c-6f8ea1fae60e" />
 
 
