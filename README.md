@@ -10,12 +10,12 @@ The primary goal of this dashboard is to analyze employee attrition patterns and
 
 🧠 Key Insights
 
-Overall Employees: 1470
-Total Attrition: 237
-Attrition Rate: 16.1%
-Average Age: 37 years
-Average Salary: 6.5K
-Average Years of Experience: 7 years
+#Overall Employees: 1470
+#Total Attrition: 237
+#Attrition Rate: 16.1%
+#Average Age: 37 years
+#Average Salary: 6.5K
+#Average Years of Experience: 7 years
 
 📈 Dashboard Highlights
 1. Attrition by Education
@@ -54,7 +54,10 @@ Explore filters (Age, Department, Job Role, Salary, etc.)
 Interact with visuals to gain insights
 
 🔗 Project Links
+
 📘 Dashboard File: 
+https://github.com/omkartech-debug/HR-Analytics-Dashboard/blob/main/HR%20ANALYTICS%20PRO.pbix
+
 🖼️ Dashboard Image: 
 <img width="1218" height="677" alt="HR ANALYTICS DASHBOARD SS" src="https://github.com/user-attachments/assets/47ecdad2-f08d-48a8-b84c-6f8ea1fae60e" />
 
