@@ -73,5 +73,7 @@ This HR Analytics Dashboard offers an interactive and visual way to understand w
 
 👩‍💻 Developed By
 [Omkar Khollam]
+
 📧 [omkarkhollam803@gmail.com]
+
 🔗 [LinkedIn Profile : www.linkedin.com/in/omkar-khollam-814b052b3]
